@@ -2,7 +2,7 @@
 <h1 align="center">GVP AI CLUB</h1>
 
 
-<p align="center"><img width ="45%" src="https://github.com/GVP-AI-Club/.github/blob/main/profile/assets/logo.png"></p> 
+<p align="center"><img width ="30%" src="https://github.com/GVP-AI-Club/.github/blob/main/profile/assets/logo.png"></p> 
 <h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
 
 
