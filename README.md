@@ -1,2 +1,1 @@
-# .github
-🚀 GVP AI Club's GitHub profile 🚀
+# 🚀 GVP AI Club GitHub profile 🚀
