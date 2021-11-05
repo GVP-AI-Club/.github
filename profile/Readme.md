@@ -7,7 +7,8 @@
 
 
 <p align="center">
-  Giving back to the community
+  Education Runs Free Here!
+Looking for connections and cool people to learn with? Come on in!
   <br><br>
   <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">🚀 Join Us 🚀</a>
   <br> <br>
