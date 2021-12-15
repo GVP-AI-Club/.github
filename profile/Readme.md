@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  Education Runs Free Here!
+  Where, Knowledge Runs Free!
   <br><br>
   <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">🚀 Join Us 🚀</a>
   <br> <br>
